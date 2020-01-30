@@ -9,9 +9,14 @@ namespace ImplicitLocalization1
 {
     public partial class Default : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
+        protected override void InitializeCulture()
         {
-
+            if (Request.Form["LanguageList"] != null)
+            {
+                string language = Request.Form["LanguageList"];
+                UICulture = language;
+                Culture = language;
+            }
         }
     }
 }

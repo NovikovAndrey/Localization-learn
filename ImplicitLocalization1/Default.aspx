@@ -35,9 +35,9 @@
                     
                 </tr>
                 <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
+                   <td colspan="2">
+                        <asp:Button ID="ButtonLogin" runat="server" meta:resourcekey="ButtonLogin" />
+                    </td>
                 </tr>
             </table>
         </div>
