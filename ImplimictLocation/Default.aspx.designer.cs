@@ -11,7 +11,7 @@ namespace ImplimictLocation
 {
 
 
-    public partial class ImplicitLocalization
+    public partial class Default
     {
 
         /// <summary>

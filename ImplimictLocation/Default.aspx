@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ImplicitLocalization.aspx.cs" Inherits="ImplimictLocation.ImplicitLocalization" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ImplimictLocation.Default" %>
 
 <!DOCTYPE html>
 
