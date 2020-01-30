@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ImplicitLocalization2.Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ImplicitLocalization2.Default" UICulture="ru-RU" Culture="auto" %>
 
 <!DOCTYPE html>
 
